@@ -1,0 +1,3 @@
+Clonar projeto para a máquina local - git clone https://e o link
+Verificar status - git status
+Sincronizar - git add .
